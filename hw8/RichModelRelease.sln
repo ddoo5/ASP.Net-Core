@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichModelRelease", "RichModelRelease.csproj", "{306CCE61-3FDF-4CD9-B5EE-ABA930E1AD3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306CCE61-3FDF-4CD9-B5EE-ABA930E1AD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306CCE61-3FDF-4CD9-B5EE-ABA930E1AD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306CCE61-3FDF-4CD9-B5EE-ABA930E1AD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306CCE61-3FDF-4CD9-B5EE-ABA930E1AD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4018131-7F97-4E2A-9040-B14206E70217}
+	EndGlobalSection
+EndGlobal
